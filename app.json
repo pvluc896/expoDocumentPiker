@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "GroupDocs",
+    "slug": "groupdocs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.groupdocs.app"
+    },
+    "plugins": [
+      "expo-sharing"
+    ]
+  }
+}
